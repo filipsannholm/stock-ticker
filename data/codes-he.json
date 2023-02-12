@@ -1,0 +1,1702 @@
+[
+    {
+      "code": "AALLON",
+      "name": "Aallon Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000369608",
+      "fetched": true
+    },
+    {
+      "code": "ACG1V",
+      "name": "Aspocomp Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008080",
+      "fetched": true
+    },
+    {
+      "code": "ADMCM",
+      "name": "Admicom Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000251830",
+      "fetched": true
+    },
+    {
+      "code": "AFAGR",
+      "name": "Afarak Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009800098",
+      "fetched": true
+    },
+    {
+      "code": "AKTIA",
+      "name": "Aktia Bank Abp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000058870",
+      "fetched": true
+    },
+    {
+      "code": "ALBAV",
+      "name": "Alandsbanken Abp A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000103",
+      "fetched": true
+    },
+    {
+      "code": "ALBBV",
+      "name": "Alandsbanken Abp B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009001127",
+      "fetched": true
+    },
+    {
+      "code": "ALMA",
+      "name": "Alma Media Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009013114",
+      "fetched": true
+    },
+    {
+      "code": "ANORA",
+      "name": "Anora Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000292438",
+      "fetched": true
+    },
+    {
+      "code": "APETIT",
+      "name": "Apetit Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009003503",
+      "fetched": true
+    },
+    {
+      "code": "ASPO",
+      "name": "Aspo Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008072",
+      "fetched": true
+    },
+    {
+      "code": "ATRAV",
+      "name": "Atria Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009006548",
+      "fetched": true
+    },
+    {
+      "code": "BIOBV",
+      "name": "Biohit Oyj B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009005482",
+      "fetched": true
+    },
+    {
+      "code": "BITTI",
+      "name": "Bittium Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007264",
+      "fetched": true
+    },
+    {
+      "code": "BONEH",
+      "name": "BBS-Bioactive Bone Substitutes Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000260583",
+      "fetched": true
+    },
+    {
+      "code": "BOREO",
+      "name": "Boreo Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900724",
+      "fetched": true
+    },
+    {
+      "code": "CAPMAN",
+      "name": "CapMan Oyj B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009009377",
+      "fetched": true
+    },
+    {
+      "code": "CAV1V",
+      "name": "Caverion Ord",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000062781",
+      "fetched": true
+    },
+    {
+      "code": "CGCBV",
+      "name": "Cargotec Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009013429",
+      "fetched": true
+    },
+    {
+      "code": "CONSTI",
+      "name": "Consti Yhtiot Oy",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000178256",
+      "fetched": true
+    },
+    {
+      "code": "CTH1V",
+      "name": "Componenta Corp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000476783",
+      "fetched": true
+    },
+    {
+      "code": "CTY1S",
+      "name": "Citycon Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000369947",
+      "fetched": true
+    },
+    {
+      "code": "DETEC",
+      "name": "Detection Technology OY",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000115464",
+      "fetched": true
+    },
+    {
+      "code": "DIGIA",
+      "name": "Digia Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007983",
+      "fetched": true
+    },
+    {
+      "code": "DIGIGR",
+      "name": "Digitalist Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008007",
+      "fetched": true
+    },
+    {
+      "code": "DOV1V",
+      "name": "Dovre Group Plc",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008098",
+      "fetched": true
+    },
+    {
+      "code": "EEZY",
+      "name": "Eezy PLC",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000322326",
+      "fetched": true
+    },
+    {
+      "code": "EFECTE",
+      "name": "Efecte Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000282868",
+      "fetched": true
+    },
+    {
+      "code": "ELEAV",
+      "name": "Elecster Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900658",
+      "fetched": false
+    },
+    {
+      "code": "ELISA",
+      "name": "Elisa Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007884",
+      "fetched": false
+    },
+    {
+      "code": "ENEDO",
+      "name": "Enedo Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000415252",
+      "fetched": false
+    },
+    {
+      "code": "ENENTO",
+      "name": "Enento Group Plc",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000123195",
+      "fetched": false
+    },
+    {
+      "code": "EQV1V",
+      "name": "eQ Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009009617",
+      "fetched": false
+    },
+    {
+      "code": "ERIBR",
+      "name": "Telefonaktiebolaget LM Ericsson Class B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "SE0000108656",
+      "fetched": false
+    },
+    {
+      "code": "ESENSE",
+      "name": "Enersense International Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000301585",
+      "fetched": false
+    },
+    {
+      "code": "ETTE",
+      "name": "Etteplan Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008650",
+      "fetched": false
+    },
+    {
+      "code": "EVLI",
+      "name": "Evli Pankki Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000513437",
+      "fetched": false
+    },
+    {
+      "code": "EXL1V",
+      "name": "Exel Composites Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007306",
+      "fetched": false
+    },
+    {
+      "code": "FELLOW",
+      "name": "Fellow Finance",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000170915",
+      "fetched": false
+    },
+    {
+      "code": "FIA1S",
+      "name": "Finnair Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009003230",
+      "fetched": false
+    },
+    {
+      "code": "FONDIA",
+      "name": "Fondia Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000232913",
+      "fetched": false
+    },
+    {
+      "code": "FORTUM",
+      "name": "Fortum Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007132",
+      "fetched": false
+    },
+    {
+      "code": "FSECURE",
+      "name": "F-SECURE OYJ",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "",
+      "fetched": false
+    },
+    {
+      "code": "FSKRS",
+      "name": "Fiskars Oyj Abp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000400",
+      "fetched": false
+    },
+    {
+      "code": "GLA1V",
+      "name": "Glaston Oyj Abp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000369657",
+      "fetched": false
+    },
+    {
+      "code": "GOFORE",
+      "name": "Gofore Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000283130",
+      "fetched": false
+    },
+    {
+      "code": "HARVIA",
+      "name": "Harvia Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000306873",
+      "fetched": false
+    },
+    {
+      "code": "HEEROS",
+      "name": "Heeros Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000127527",
+      "fetched": false
+    },
+    {
+      "code": "HKSAV",
+      "name": "HKScan Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009006308",
+      "fetched": false
+    },
+    {
+      "code": "HONBS",
+      "name": "Honkarakenne Oyj B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900104",
+      "fetched": false
+    },
+    {
+      "code": "HRTIS",
+      "name": "Herantis Pharma Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000087861",
+      "fetched": false
+    },
+    {
+      "code": "HUH1V",
+      "name": "Huhtamaki Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000459",
+      "fetched": false
+    },
+    {
+      "code": "ICP1V",
+      "name": "Incap Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009006407",
+      "fetched": false
+    },
+    {
+      "code": "IFA1V",
+      "name": "Innofactor Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007637",
+      "fetched": false
+    },
+    {
+      "code": "ILKKA1",
+      "name": "Ilkka Oyj 1",
+      "country": "Finland",
+      "exchange": "XHEL",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "",
+      "fetched": false
+    },
+    {
+      "code": "ILKKA2",
+      "name": "Ilkka Oyj 2",
+      "country": "Finland",
+      "exchange": "XHEL",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "",
+      "fetched": false
+    },
+    {
+      "code": "INDERES",
+      "name": "Inderes Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000348651",
+      "fetched": false
+    },
+    {
+      "code": "INVEST",
+      "name": "Investors House",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900559",
+      "fetched": false
+    },
+    {
+      "code": "KAMUX",
+      "name": "Kamux Suomi Oy",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000206750",
+      "fetched": false
+    },
+    {
+      "code": "KCR",
+      "name": "Konecranes Plc",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009005870",
+      "fetched": false
+    },
+    {
+      "code": "KELAS",
+      "name": "Kesla Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900237",
+      "fetched": false
+    },
+    {
+      "code": "KEMIRA",
+      "name": "Kemira Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009004824",
+      "fetched": false
+    },
+    {
+      "code": "KEMPOWR",
+      "name": "Kempower Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000513593",
+      "fetched": false
+    },
+    {
+      "code": "KESKOA",
+      "name": "Kesko Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007900",
+      "fetched": false
+    },
+    {
+      "code": "KESKOB",
+      "name": "Kesko Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000202",
+      "fetched": false
+    },
+    {
+      "code": "KNEBV",
+      "name": "KONE Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009013403",
+      "fetched": false
+    },
+    {
+      "code": "KOJAMO",
+      "name": "Kojamo",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000312251",
+      "fetched": false
+    },
+    {
+      "code": "KOSKI",
+      "name": "Koskisen",
+      "country": "Finland",
+      "exchange": "XHEL",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "",
+      "fetched": false
+    },
+    {
+      "code": "KREATE",
+      "name": "Kreate Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000476866",
+      "fetched": false
+    },
+    {
+      "code": "KSLAV",
+      "name": "Keskisuomalainen Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007546",
+      "fetched": false
+    },
+    {
+      "code": "LAMOR",
+      "name": "Lamor Corporation Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000512488",
+      "fetched": false
+    },
+    {
+      "code": "LAPWALL",
+      "name": "LapWall Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000511597",
+      "fetched": false
+    },
+    {
+      "code": "LAT1V",
+      "name": "Lassila &Tikanoja Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009010854",
+      "fetched": false
+    },
+    {
+      "code": "LEHTO",
+      "name": "Lehto Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000081138",
+      "fetched": false
+    },
+    {
+      "code": "LEMON",
+      "name": "Lemonsoft Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000512678",
+      "fetched": false
+    },
+    {
+      "code": "LL1SPAC",
+      "name": "Lifeline SPAC I Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "",
+      "fetched": false
+    },
+    {
+      "code": "MARAS",
+      "name": "Martela Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900385",
+      "fetched": false
+    },
+    {
+      "code": "MEKKO",
+      "name": "Marimekko Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007660",
+      "fetched": false
+    },
+    {
+      "code": "METSA",
+      "name": "Metsa Board Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000640",
+      "fetched": false
+    },
+    {
+      "code": "METSB",
+      "name": "Metsa Board Oyj B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000665",
+      "fetched": false
+    },
+    {
+      "code": "MOCORP",
+      "name": "Metso Outotec Corp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009014575",
+      "fetched": false
+    },
+    {
+      "code": "MUSTI",
+      "name": "Musti Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000410758",
+      "fetched": false
+    },
+    {
+      "code": "NANOFH",
+      "name": "Nanoform Finland Plc",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000330972",
+      "fetched": false
+    },
+    {
+      "code": "NDA-FI",
+      "name": "Nordea Bank Abp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000297767",
+      "fetched": false
+    },
+    {
+      "code": "NESTE",
+      "name": "Neste Oil Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009013296",
+      "fetched": false
+    },
+    {
+      "code": "NIXU",
+      "name": "Nixu Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008387",
+      "fetched": false
+    },
+    {
+      "code": "NLG1V",
+      "name": "Nurminen Logistics Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900187",
+      "fetched": false
+    },
+    {
+      "code": "NOHO",
+      "name": "NoHo Partners Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000064332",
+      "fetched": false
+    },
+    {
+      "code": "NOKIA",
+      "name": "Nokia Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000681",
+      "fetched": false
+    },
+    {
+      "code": "NXTMH",
+      "name": "Nexstim Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000506811",
+      "fetched": false
+    },
+    {
+      "code": "OKDAV",
+      "name": "Oriola-KD Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009014344",
+      "fetched": false
+    },
+    {
+      "code": "OKDBV",
+      "name": "Oriola-KD Oyj B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009014351",
+      "fetched": false
+    },
+    {
+      "code": "OLVAS",
+      "name": "Olvi Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900401",
+      "fetched": false
+    },
+    {
+      "code": "OMASP",
+      "name": "Oma Saastopankki Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000306733",
+      "fetched": false
+    },
+    {
+      "code": "OPTOMED",
+      "name": "Optomed PLC",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000410881",
+      "fetched": false
+    },
+    {
+      "code": "ORNAV",
+      "name": "Orion Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009014369",
+      "fetched": false
+    },
+    {
+      "code": "ORNBV",
+      "name": "Orion Oyj B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009014377",
+      "fetched": false
+    },
+    {
+      "code": "ORTHEX",
+      "name": "Orthex Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000480504",
+      "fetched": false
+    },
+    {
+      "code": "OUT1V",
+      "name": "Outokumpu Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009002422",
+      "fetched": false
+    },
+    {
+      "code": "OVARO",
+      "name": "Ovaro Kiinteistosijoitus Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000349113",
+      "fetched": false
+    },
+    {
+      "code": "PAMPALO",
+      "name": "Endomines Finland Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000508023",
+      "fetched": false
+    },
+    {
+      "code": "PARTNE1",
+      "name": "Partnera Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009009559",
+      "fetched": false
+    },
+    {
+      "code": "PIHLIS",
+      "name": "Pihlajalinna Oy",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000092556",
+      "fetched": false
+    },
+    {
+      "code": "PIIPPO",
+      "name": "Piippo OYJ",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000123070",
+      "fetched": false
+    },
+    {
+      "code": "PNA1V",
+      "name": "Panostaja Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009800379",
+      "fetched": false
+    },
+    {
+      "code": "PON1V",
+      "name": "Ponsse Oyj 1",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009005078",
+      "fetched": false
+    },
+    {
+      "code": "PUMU",
+      "name": "PunaMusta Media Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900468",
+      "fetched": false
+    },
+    {
+      "code": "PURMO",
+      "name": "Purmo Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000507488",
+      "fetched": false
+    },
+    {
+      "code": "PUUILO",
+      "name": "Puuilo Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000507124",
+      "fetched": false
+    },
+    {
+      "code": "QPR1V",
+      "name": "QPR Software Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008668",
+      "fetched": false
+    },
+    {
+      "code": "QTCOM",
+      "name": "Qt Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000198031",
+      "fetched": false
+    },
+    {
+      "code": "RAIKV",
+      "name": "Raisio Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009800395",
+      "fetched": false
+    },
+    {
+      "code": "RAIVV",
+      "name": "Raisio Oyj Vaihto-osake",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009002943",
+      "fetched": false
+    },
+    {
+      "code": "RAP1V",
+      "name": "Rapala VMC Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007355",
+      "fetched": false
+    },
+    {
+      "code": "RAUTE",
+      "name": "Raute Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009004741",
+      "fetched": false
+    },
+    {
+      "code": "REG1V",
+      "name": "Revenio Group Corporation",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009010912",
+      "fetched": false
+    },
+    {
+      "code": "REKA",
+      "name": "Reka Industrial Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009800296",
+      "fetched": false
+    },
+    {
+      "code": "RELAIS",
+      "name": "Relais Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000391487",
+      "fetched": false
+    },
+    {
+      "code": "REMEDY",
+      "name": "Remedy Entertainment Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000251897",
+      "fetched": false
+    },
+    {
+      "code": "ROBIT",
+      "name": "Robit Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000150016",
+      "fetched": false
+    },
+    {
+      "code": "ROVIO",
+      "name": "Rovio Entertainment",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000266804",
+      "fetched": false
+    },
+    {
+      "code": "SAGCV",
+      "name": "Saga Furs Oyj C",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009800551",
+      "fetched": false
+    },
+    {
+      "code": "SAMPO",
+      "name": "Sampo Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009003305",
+      "fetched": false
+    },
+    {
+      "code": "SANOMA",
+      "name": "Sanoma Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007694",
+      "fetched": false
+    },
+    {
+      "code": "SAVOH",
+      "name": "Savo Solar Oy",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000425848",
+      "fetched": false
+    },
+    {
+      "code": "SCANFL",
+      "name": "Scanfil Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000029905",
+      "fetched": false
+    },
+    {
+      "code": "SIEVI",
+      "name": "Sievi Capital Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008924",
+      "fetched": false
+    },
+    {
+      "code": "SIILI",
+      "name": "Siili Solutions Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000043435",
+      "fetched": false
+    },
+    {
+      "code": "SITOWS",
+      "name": "Sitowise Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000480215",
+      "fetched": false
+    },
+    {
+      "code": "SKARTA",
+      "name": "Skarta Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000153515",
+      "fetched": false
+    },
+    {
+      "code": "SLGOMXH25",
+      "name": "Seligson & Co OMX Helsinki 25",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "ETF",
+      "isin": "FI0008805627",
+      "fetched": false
+    },
+    {
+      "code": "SOLTEQ",
+      "name": "Solteq PLC",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007991",
+      "fetched": false
+    },
+    {
+      "code": "SOSI",
+      "name": "Sotkamo Silver AB",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "SE0001057910",
+      "fetched": false
+    },
+    {
+      "code": "SOSI1",
+      "name": "Sotkamo Silver AB",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "SE0001057910",
+      "fetched": false
+    },
+    {
+      "code": "SPINN",
+      "name": "Spinnova Oy",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000507595",
+      "fetched": false
+    },
+    {
+      "code": "SRV1V",
+      "name": "SRV Group plc",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009015309",
+      "fetched": false
+    },
+    {
+      "code": "SSABAH",
+      "name": "SSAB AB ser. A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "SE0000171100",
+      "fetched": false
+    },
+    {
+      "code": "SSABBH",
+      "name": "SSAB AB ser. B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "SE0000120669",
+      "fetched": false
+    },
+    {
+      "code": "SSH1V",
+      "name": "SSH Communications Security Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008270",
+      "fetched": false
+    },
+    {
+      "code": "STEAV",
+      "name": "Stora Enso Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009005953",
+      "fetched": false
+    },
+    {
+      "code": "STERV",
+      "name": "Stora Enso Oyj R",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009005961",
+      "fetched": false
+    },
+    {
+      "code": "STOCKA",
+      "name": "Stockmann Oyj Abp B",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000251",
+      "fetched": false
+    },
+    {
+      "code": "SUY1V",
+      "name": "Suominen Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009010862",
+      "fetched": false
+    },
+    {
+      "code": "TAALA",
+      "name": "Taaleri Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000062195",
+      "fetched": false
+    },
+    {
+      "code": "TELIA1",
+      "name": "Telia Company AB",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "SE0000667925",
+      "fetched": false
+    },
+    {
+      "code": "TEM1V",
+      "name": "Tecnotree Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009010227",
+      "fetched": false
+    },
+    {
+      "code": "TIETO",
+      "name": "TietoEVRY Corp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009000277",
+      "fetched": false
+    },
+    {
+      "code": "TITAN",
+      "name": "Titanium Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000270350",
+      "fetched": false
+    },
+    {
+      "code": "TLT1V",
+      "name": "Teleste Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009007728",
+      "fetched": false
+    },
+    {
+      "code": "TNOM",
+      "name": "Talenom Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000153580",
+      "fetched": false
+    },
+    {
+      "code": "TOIVO",
+      "name": "Toivo Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000496716",
+      "fetched": false
+    },
+    {
+      "code": "TOKMAN",
+      "name": "Tokmanni Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000197934",
+      "fetched": false
+    },
+    {
+      "code": "TRH1V",
+      "name": "Trainers House Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000519202",
+      "fetched": false
+    },
+    {
+      "code": "TTALO",
+      "name": "Terveystalo Oy",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000252127",
+      "fetched": false
+    },
+    {
+      "code": "TULAV",
+      "name": "Tulikivi Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900583",
+      "fetched": false
+    },
+    {
+      "code": "TYRES",
+      "name": "Nokian Renkaat Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009005318",
+      "fetched": false
+    },
+    {
+      "code": "UNITED",
+      "name": "United Bankers Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000081427",
+      "fetched": false
+    },
+    {
+      "code": "UPM",
+      "name": "UPM-Kymmene Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009005987",
+      "fetched": false
+    },
+    {
+      "code": "UPONOR",
+      "name": "Uponor Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009002158",
+      "fetched": false
+    },
+    {
+      "code": "VAIAS",
+      "name": "Vaisala Oyj A",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009900682",
+      "fetched": false
+    },
+    {
+      "code": "VALMT",
+      "name": "Valmet Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000074984",
+      "fetched": false
+    },
+    {
+      "code": "VALOE",
+      "name": "Valoe Corp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009006951",
+      "fetched": false
+    },
+    {
+      "code": "VERK",
+      "name": "Verkkokauppa.com Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000049812",
+      "fetched": false
+    },
+    {
+      "code": "VIK1V",
+      "name": "Viking Line Abp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009005250",
+      "fetched": false
+    },
+    {
+      "code": "VINCIT",
+      "name": "Vincit Group Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000185533",
+      "fetched": false
+    },
+    {
+      "code": "WETTERI",
+      "name": "Wetteri",
+      "country": "Finland",
+      "exchange": "XHEL",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "",
+      "fetched": false
+    },
+    {
+      "code": "WITH",
+      "name": "WITHSECURE",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI4000519228",
+      "fetched": false
+    },
+    {
+      "code": "WRT1V",
+      "name": "Wartsila Oyj Abp",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009003727",
+      "fetched": false
+    },
+    {
+      "code": "WUF1V",
+      "name": "Wulff-Yhtiot Oy",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009008452",
+      "fetched": false
+    },
+    {
+      "code": "YIT",
+      "name": "YIT Oyj",
+      "country": "Finland",
+      "exchange": "HE",
+      "currency": "EUR",
+      "type": "Common Stock",
+      "isin": "FI0009800643",
+      "fetched": false
+    }
+  ]

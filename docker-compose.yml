@@ -1,0 +1,25 @@
+version: "3.9"
+services:
+  redis:
+    image: redis:latest
+    ports:
+      - 6379
+    restart: always
+  backend:
+    build: ./server/.
+    image: filipsannholm/stock-backend
+    depends_on: 
+      - redis
+    ports: 
+      - 5000:5000
+    restart: always
+    environment:
+      REDIS_HOST: 'redis://redis'
+      REDIS_PORT: 6379
+  client:
+    build: ./client/.
+    image: filipsannholm/stock-frontend
+    depends_on: 
+      - backend
+    ports:
+      - 80:80

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: theme('colors.gunmetal');
+  height: 100%;
+  width: 100%;
+}
+
+@layer components {
+  .chart-control {
+    @apply rounded-sm bg-gray-600 p-1 text-xs text-gray-400;
+  }
+}
