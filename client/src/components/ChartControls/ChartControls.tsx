@@ -76,7 +76,7 @@ export default function ChartControls({ tickers, stocks }: ChartControlsProps) {
         <button className='chart-control' onClick={handleComparisonButtonClick}>
           Comparison
         </button>
-        <div className={comparisonMenuClasses}>
+        <div data-testid='comparison-menu' className={comparisonMenuClasses}>
           <ComparisonMenu
             menuRef={comparisonMenuVisible.ref}
             tickers={nonSelectedTickers}
@@ -88,7 +88,7 @@ export default function ChartControls({ tickers, stocks }: ChartControlsProps) {
         <button className='chart-control' onClick={handleDateRangeButtonClick}>
           Date Range
         </button>
-        <div className={dateMenuClasses}>
+        <div data-testid='date-menu' className={dateMenuClasses}>
           <DateRangeMenu menuRef={dateMenuVisible.ref} />
         </div>
       </div>
