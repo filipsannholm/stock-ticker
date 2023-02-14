@@ -17,7 +17,7 @@ export interface TickerQueryParams {
 export const getMarket = async (marketId: string) => {
     await redisClient.connect()
     const data = await redisClient.get(`market-${marketId}`) || '[]'
-    await redisClient.disconnect()
+    await redisClient.quit()
     try {
         const parsed = JSON.parse(data);
         return parsed
@@ -33,7 +33,7 @@ export const getTickerData = async (params: TickerQueryParams) => {
         const redisKeys = dates.map((date: string) => `${key}-${date}`)
         await redisClient.connect()
         const res = await redisClient.mGet(redisKeys)
-        await redisClient.disconnect()
+        await redisClient.quit()
         const dataObj = res.filter(value => typeof value === 'string').map(value => value && JSON.parse(value))
         dataObj.sort((a, b) => {
             const firstDate = parse(a.date, DATE_FORMAT, new Date())

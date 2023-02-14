@@ -71,9 +71,11 @@ const writeTickerData = async (marketKey: string, fileNames: string[]) => {
             const priceData = JSON.parse(tickerData)
             const ticker = getTickerCode(fileName)
             const redisData = convertPriceData(marketKey, ticker, priceData)
-            redisClient.connect()
-            await redisClient.mSet(redisData)
-            redisClient.disconnect()
+            await redisClient.connect()
+            for (const [key, value] of Object.entries(redisData)) {
+                redisClient.set(key, value, {'EX': 9999999})
+            }
+            await redisClient.quit()
         } catch (e) {
             console.log(`Could not parse price data in ${fileName}.`, e)
         }
@@ -98,8 +100,8 @@ const convertPriceData = (marketKey: string, ticker: string, priceData: PriceDat
 
 const setKey = async (key: string, value: string) => {
     await redisClient.connect()
-    await redisClient.set(key, value)
-    await redisClient.disconnect()
+    await redisClient.set(key, value, {'EX': 99999999})
+    await redisClient.quit()
 }
 
 const marketFiles = getMarketFiles()
