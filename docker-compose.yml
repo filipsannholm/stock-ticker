@@ -1,21 +1,21 @@
 version: "3.9"
+
+networks:
+  stock-ticker:
+    driver: awsvpc
+
 services:
-  redis:
-    image: redis:latest
-    ports:
-      - 6379
-    restart: always
   backend:
     build: ./server/.
     image: filipsannholm/stock-backend
-    depends_on: 
-      - redis
     ports: 
       - 5000:5000
     restart: always
     environment:
-      REDIS_HOST: 'redis://redis'
+      REDIS_HOST: 'redis://stock-ticker-redis-cluster.couksn.clustercfg.memorydb.eu-north-1.amazonaws.com'
       REDIS_PORT: 6379
+    networks:
+      - stock-ticker
   client:
     build: ./client/.
     image: filipsannholm/stock-frontend
@@ -23,3 +23,5 @@ services:
       - backend
     ports:
       - 80:80
+    networks:
+      - stock-ticker

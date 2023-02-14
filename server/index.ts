@@ -8,13 +8,14 @@ const app: Express = express()
 app.use(cors())
 
 app.get('/api/market/:market', async (req: Request, res: Response) => {
-    console.log(req)
-    if (!req.params.market) {
-        res.status(400)
-        res.send({error: 'Missing parameter.'})
-    } else {
+    try {
+        if (!req.params.market) {
+            throw new Error('Missing parameter')
+        }
         const data = await getMarket(req.params.market)
         res.send(data)
+    } catch(e: any) {
+        res.status(400).send({error: e.message})
     }
 })
 
@@ -31,7 +32,6 @@ app.get('/api/tickers', async (req: Request, res: Response) => {
         res.send(data)
     } catch(e: any) {
         res.status(400).send({error: e.message})
-        
     }
 })
 
