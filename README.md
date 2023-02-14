@@ -15,7 +15,7 @@
  * Start a local instance of redis
  * Create a .env file in the root and add redis host address and port number. See example.
  * Run `cd scripts && npm run seed-redis` to seed the database with some data
- * Start the backend server `cd server && nnpm start`
+ * Start the backend server `cd server && npm start`
  * Start the frontend `cd client && npm start`
 
   ## Limitations
